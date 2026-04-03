@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "asimov-platform",
+  "repo": "asimov.py",
+  "versions": [
+    {
+      "commit": "4bc18c8407d052b9a5a0c164e712af65dc6e5b27",
+      "parsed_at": "2026-04-03T01:07:01.434341+00:00",
+      "tag": "0.0.0",
+      "filetree": "filetree/4bc18c8407d052b9a5a0c164e712af65dc6e5b27.nq.gz",
+      "blobs": [
+        "blob/78093b007ef8d36c6a4cb9aa835ba9e4b88a4005.nq.gz",
+        "blob/abbbdd04586fd8894e56d7e7d397b753c0bc3e57.nq.gz",
+        "blob/13edb27f8341a15f7ef6805243c5be8572913129.nq.gz",
+        "blob/009d16542a402a4d489d8c961646c1a26a176f04.nq.gz",
+        "blob/e079f8a6038dd2dc8512967540f96ee0de172067.nq.gz",
+        "blob/2992f44ac9b4992103f9c69ebf14edd99eee5038.nq.gz",
+        "blob/b25bad035254dc35e285e937b999720555e19e82.nq.gz",
+        "blob/efb98088164f5786b17e83ed384971fc3c74f93c.nq.gz",
+        "blob/c6d126fb91bb0634a9591fc8bdc041efa81c720f.nq.gz",
+        "blob/2391f73aa051d3804285ce744f2e9a1c7e08993d.nq.gz",
+        "blob/34dcfc9c4f6aeba5eac6346da4bcaf7b4e7ff1f7.nq.gz",
+        "blob/bb9832a4fe63caed1c7ec7253b27e83985c92d95.nq.gz",
+        "blob/275b01153156be45d1de4c72b5c7836f4cb5a928.nq.gz",
+        "blob/eb15d09218d51f9fdb9c8db3964d1a42561fbe21.nq.gz",
+        "blob/b47d723f491695e1a2dc51ea889e5051ad850f66.nq.gz",
+        "blob/784c330fc78c1f7608f09f3bb1d110815dec2b8e.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
