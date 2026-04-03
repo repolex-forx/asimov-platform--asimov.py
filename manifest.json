@@ -94,6 +94,23 @@
         "blob/056fce806d0b314ebd074d1a664a6fa90e135f89.nq.gz",
         "blob/f97aeda07b813ac759b4e837ef5f056ac06c0c22.nq.gz",
         "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/b5c288bc2bf9703097291fd6393d1c4a3c8e11c7.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/b5c288bc2bf9703097291fd6393d1c4a3c8e11c7.nq.gz",
+      "repolex": "aggregate/repolex/b5c288bc2bf9703097291fd6393d1c4a3c8e11c7.nq.gz",
+      "dep": "dep/b5c288bc2bf9703097291fd6393d1c4a3c8e11c7.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pydantic",
+          "ecosystem": "PYPI",
+          "version": "2",
+          "githubOrg": "pydantic",
+          "githubRepo": "pydantic",
+          "githubUrl": "https://github.com/pydantic/pydantic",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
