@@ -22,8 +22,9 @@
     {
       "@id": "https://repolex.ai/r/asimov-platform/asimov.py/commit/b058535a14de6b810854d1159783aaf677244101",
       "git:hexsha": "b058535a14de6b810854d1159783aaf677244101",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "26.0.0.dev1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "26.0.0.dev1",
+      "repolex:parsedAt": "2026-04-03T01:17:32.939962+00:00"
     }
   ]
 }
