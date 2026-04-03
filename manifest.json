@@ -26,6 +26,37 @@
         "blob/b47d723f491695e1a2dc51ea889e5051ad850f66.nq.gz",
         "blob/784c330fc78c1f7608f09f3bb1d110815dec2b8e.nq.gz",
         "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/4bc18c8407d052b9a5a0c164e712af65dc6e5b27.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/4bc18c8407d052b9a5a0c164e712af65dc6e5b27.nq.gz",
+      "repolex": "aggregate/repolex/4bc18c8407d052b9a5a0c164e712af65dc6e5b27.nq.gz",
+      "dep": "dep/4bc18c8407d052b9a5a0c164e712af65dc6e5b27.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2",
+          "githubTag": "9.0.2",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "82.0.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "5a13876673a41e3cd21d4d6e587f53d0fb4fd8e5",
+          "githubTag": "v82.0.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/__init__.py"
+        }
       ]
     },
     {
